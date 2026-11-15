@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T23:24:23.611Z",
+  "generated_at": "2026-11-15T23:24:25.153Z",
   "items": {
     "problem:15": {
       "kind": "problem",
@@ -141,6 +141,71 @@
       "last_pushed_at": "2026-01-14T05:56:01.256Z",
       "language": "python",
       "lines": 32
+    },
+    "problem:8": {
+      "kind": "problem",
+      "id": "8",
+      "title": "Calculate 2x2 Matrix Inverse",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/8",
+      "path": "problems/0008-calculate-2x2-matrix-inverse",
+      "first_solved_at": "2026-02-11T17:40:15.269Z",
+      "last_pushed_at": "2026-02-11T17:40:15.269Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:6": {
+      "kind": "problem",
+      "id": "6",
+      "title": "Calculate Eigenvalues of a Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/6",
+      "path": "problems/0006-calculate-eigenvalues-of-a-matrix",
+      "first_solved_at": "2026-02-11T17:51:21.040Z",
+      "last_pushed_at": "2026-02-11T17:51:21.040Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:80": {
+      "kind": "problem",
+      "id": "80",
+      "title": "Normal Distribution PDF Calculator",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/80",
+      "path": "problems/0080-normal-distribution-pdf-calculator",
+      "first_solved_at": "2026-02-11T18:49:58.287Z",
+      "last_pushed_at": "2026-02-11T18:49:58.287Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:81": {
+      "kind": "problem",
+      "id": "81",
+      "title": "Poisson Distribution Probability Calculator",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/81",
+      "path": "problems/0081-poisson-distribution-probability-calculator",
+      "first_solved_at": "2026-02-11T19:02:49.478Z",
+      "last_pushed_at": "2026-02-11T19:02:49.478Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:79": {
+      "kind": "problem",
+      "id": "79",
+      "title": "Binomial Distribution Probability",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/79",
+      "path": "problems/0079-binomial-distribution-probability",
+      "first_solved_at": "2026-02-11T19:08:17.719Z",
+      "last_pushed_at": "2026-02-11T19:08:17.719Z",
+      "language": "python",
+      "lines": 17
     }
   }
 }
