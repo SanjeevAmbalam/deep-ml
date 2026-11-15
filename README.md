@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**18** solved · 17 problems · 0 labs · 1 math
+**22** solved · 20 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -16,6 +16,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Cosine Similarity Between Vectors](https://www.deep-ml.com/problems/76) | easy | 2026-01-11 | [solution](problems/0076-calculate-cosine-similarity-between-vectors) |
 | [Calculate Covariance Matrix](https://www.deep-ml.com/problems/10) | easy | 2026-02-14 | [solution](problems/0010-calculate-covariance-matrix) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-01-11 | [solution](problems/0004-calculate-mean-by-row-or-column) |
+| [Calculate Number of Parameters in Neural Network](https://www.deep-ml.com/problems/371) | easy | 2026-11-13 | [solution](problems/0371-calculate-number-of-parameters-in-neural-network) |
 | [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2026-01-11 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
 | [Descriptive Statistics Calculator](https://www.deep-ml.com/problems/78) | easy | 2026-02-13 | [solution](problems/0078-descriptive-statistics-calculator) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-01-11 | [solution](problems/0083-dot-product-calculator) |
@@ -23,7 +24,9 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-11-08 | [solution](problems/0015-linear-regression-using-gradient-descent) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-01-11 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Poisson Distribution Probability Calculator](https://www.deep-ml.com/problems/81) | easy | 2026-02-11 | [solution](problems/0081-poisson-distribution-probability-calculator) |
+| [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-11-13 | [solution](problems/0003-reshape-matrix) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-01-11 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
+| [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2026-11-13 | [solution](problems/0024-single-neuron) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-01-11 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2026-02-11 | [solution](problems/0079-binomial-distribution-probability) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-02-11 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
@@ -35,6 +38,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [ML Workflow Basics](https://www.deep-ml.com/math-problems/30) | easy | 2026-11-08 | [solution](math/0030-ml-workflow-basics) |
+| [Matrix Multiplication](https://www.deep-ml.com/math-problems/10) | medium | 2026-11-13 | [solution](math/0010-matrix-multiplication) |
 
 ---
 

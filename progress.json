@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T23:24:28.436Z",
+  "generated_at": "2026-11-15T23:24:30.004Z",
   "items": {
     "problem:15": {
       "kind": "problem",
@@ -232,6 +232,56 @@
       "last_pushed_at": "2026-02-14T08:41:01.108Z",
       "language": "python",
       "lines": 16
+    },
+    "problem:3": {
+      "kind": "problem",
+      "id": "3",
+      "title": "Reshape Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/3",
+      "path": "problems/0003-reshape-matrix",
+      "first_solved_at": "2026-11-13T00:39:54.165Z",
+      "last_pushed_at": "2026-11-13T00:39:54.165Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:24": {
+      "kind": "problem",
+      "id": "24",
+      "title": "Single Neuron",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/24",
+      "path": "problems/0024-single-neuron",
+      "first_solved_at": "2026-11-13T01:21:24.425Z",
+      "last_pushed_at": "2026-11-13T01:21:24.425Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:371": {
+      "kind": "problem",
+      "id": "371",
+      "title": "Calculate Number of Parameters in Neural Network",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/371",
+      "path": "problems/0371-calculate-number-of-parameters-in-neural-network",
+      "first_solved_at": "2026-11-13T02:24:01.270Z",
+      "last_pushed_at": "2026-11-13T02:24:01.270Z",
+      "language": "python",
+      "lines": 30
+    },
+    "math:10": {
+      "kind": "math",
+      "id": "10",
+      "title": "Matrix Multiplication",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/10",
+      "path": "math/0010-matrix-multiplication",
+      "first_solved_at": "2026-11-13T02:27:10.205Z",
+      "last_pushed_at": "2026-11-13T02:27:10.205Z"
     }
   }
 }
