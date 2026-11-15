@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T23:24:30.004Z",
+  "generated_at": "2026-11-15T23:24:31.708Z",
   "items": {
     "problem:15": {
       "kind": "problem",
@@ -282,6 +282,56 @@
       "path": "math/0010-matrix-multiplication",
       "first_solved_at": "2026-11-13T02:27:10.205Z",
       "last_pushed_at": "2026-11-13T02:27:10.205Z"
+    },
+    "problem:264": {
+      "kind": "problem",
+      "id": "264",
+      "title": "Implement the Tanh Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/264",
+      "path": "problems/0264-implement-the-tanh-activation-function",
+      "first_solved_at": "2026-11-14T19:54:07.768Z",
+      "last_pushed_at": "2026-11-14T19:54:07.768Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:999": {
+      "kind": "problem",
+      "id": "999",
+      "title": "Backward Pass of Tanh Using Cached Output",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/999",
+      "path": "problems/0999-backward-pass-of-tanh-using-cached-output",
+      "first_solved_at": "2026-11-14T20:10:31.872Z",
+      "last_pushed_at": "2026-11-14T20:10:31.872Z",
+      "language": "python",
+      "lines": 16
+    },
+    "math:141": {
+      "kind": "math",
+      "id": "141",
+      "title": "Gradient of a Weight Shared Across Passes",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/141",
+      "path": "math/0141-gradient-of-a-weight-shared-across-passes",
+      "first_solved_at": "2026-11-14T20:52:59.451Z",
+      "last_pushed_at": "2026-11-14T20:52:59.451Z"
+    },
+    "problem:26": {
+      "kind": "problem",
+      "id": "26",
+      "title": "Implementing Basic Autograd Operations",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/26",
+      "path": "problems/0026-implementing-basic-autograd-operations",
+      "first_solved_at": "2026-11-14T23:06:16.858Z",
+      "last_pushed_at": "2026-11-14T23:06:16.858Z",
+      "language": "python",
+      "lines": 59
     }
   }
 }
