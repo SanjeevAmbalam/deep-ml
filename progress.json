@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T23:24:31.708Z",
+  "generated_at": "2026-11-15T23:24:33.491Z",
   "items": {
     "problem:15": {
       "kind": "problem",
@@ -332,6 +332,32 @@
       "last_pushed_at": "2026-11-14T23:06:16.858Z",
       "language": "python",
       "lines": 59
+    },
+    "problem:884": {
+      "kind": "problem",
+      "id": "884",
+      "title": "Compute a Gradient with PyTorch Autograd",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/884",
+      "path": "problems/0884-compute-a-gradient-with-pytorch-autograd",
+      "first_solved_at": "2026-11-15T00:20:08.474Z",
+      "last_pushed_at": "2026-11-15T00:20:08.474Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:1995": {
+      "kind": "problem",
+      "id": "1995",
+      "title": "Train a Tiny MLP on Your Value Engine",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1995",
+      "path": "problems/1995-train-a-tiny-mlp-on-your-value-engine",
+      "first_solved_at": "2026-11-15T21:14:43.023Z",
+      "last_pushed_at": "2026-11-15T21:14:43.023Z",
+      "language": "python",
+      "lines": 158
     }
   }
 }
